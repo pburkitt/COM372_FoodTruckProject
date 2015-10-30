@@ -1,0 +1,167 @@
+
+body {
+	background-color: #72195a;
+	padding: 0em;
+	margin: 0em;
+}
+
+section {
+	border-bottom: 1px solid black;
+}
+
+#heading {
+	text-align: center;
+	font-family: 'Fajalla One', sans-serif;
+	font-size: 2em;
+	color: White;
+	padding: .2em;
+	margin: 0em;
+	padding-bottom: .2em;
+	background-image: url(black_beans.jpg);
+}
+
+div#navigation {
+	margin:0;
+	padding: .3em 0 .3em 0;
+	background: #E3E4DB;
+	width: 100%;
+	text-align: center;
+	font: 'Droid Sans', sans-serif;
+}
+
+div#navigation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div#navigation ul li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+div#navigation ul a:link {
+	margin:0;
+	padding: .3em .4em .3em .4em;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 2em;
+	color: #191308;
+}
+
+div#navigation ul a:visited {
+	margin: 0;
+	padding: .3em .4em .3em .4em;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #227755;
+}
+
+div#navigation ul a:active {
+	margin: 0;
+	padding: .3em .4em .3em .4em;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #227755;
+}
+
+div#navigation ul a:hover{
+	margin: 0;
+	padding: .3em .4em .3em .4em;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: white;
+	background-color: #477998;
+}
+
+#section1 {
+	background-color: #9BA2FF;
+	margin-top: 4em;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-top: 1em;
+	padding-left: 1em;
+	padding-top: 1em;
+	border-style: double;
+	border-radius: 0em;
+}
+
+#section1 h1 {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 2em;
+	padding-bottom: .5em;
+	margin-top: 1em;
+	margi-left: 11em;
+	margin-right: 2em;
+	padding-top: .5em;
+	padding-left: 1em;
+	border-style: double;
+	border-radius: 0em;
+	background-color: #477998;
+	color: white;
+}
+
+#section1 p {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 1em;
+	padding-bottom: 24em;
+}
+
+#section2 {
+	background-color:#F3F8F2;
+	margin-top: 4em;
+	margin-left: 2em;
+	margin-right: 2em;
+	padding-top: 1em;
+	padding-left: 1em;
+	border-style: double;
+	border-radius: 0em;
+}
+
+#section2 h1 {
+	font-family:'Droid Sans', sans-serif;
+	font-size: 2em;
+	padding-bottom: .5em;
+	margin-top: 1em;
+	margin-left: 11em;
+	margin-right: 2em;
+  padding-top: .5em;
+	padding-left: 1em;
+	border-style: double;
+	border-radius: 0em;
+	background-color: #477998;
+	color:white;
+}
+
+#section3 {
+	background-color:#F3F8F2;
+	margin-top: 4em;
+	margin-left: 2em;
+	margin-right: 2em;
+	padding-top: 1em;
+	padding-left: 1em;
+	border-style: double;
+	border-radius: 0em;
+}
+
+#section3 h1 {
+	font-family:'Droid Sans', sans-serif;
+	font-size: 1em;
+	padding-bottom: .5em;
+	margin-top: 1em;
+	margin-left: 5em;
+	margin-right: 5em;
+	padding-top: .5em;
+	padding-left: 1em;
+	color: black;
+}
+
+#section3 p {
+	font-family: 'Alegreya', serif;
+	font-size: 1em;
+	padding-bottom: 24em;
+}
